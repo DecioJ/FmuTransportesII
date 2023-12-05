@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">FMU Transportes</string>
+    <string-array name="categorias">
+        <item>Particular</item>
+        <item>Alugado</item>
+    </string-array>
+    <string-array name="eventos">
+        <item>Viagem</item>
+        <item>Despesa</item>
+    </string-array>
+    <string-array name="tiposDespeesa">
+        <item>Combustível</item>
+        <item>Mecânico</item>
+    </string-array>
+    <string-array name="tipoParticular">
+        <item>Carro</item>
+        <item>Motocicleta</item>
+    </string-array>
+    <string-array name="tipoAlugado">
+        <item>Carro</item>
+        <item>Motocicleta</item>
+    </string-array>
+    <string-array name="tipoPublico">
+        <item>Ônibus/BRT</item>
+        <item>Metrô</item>
+        <item>Trem</item>
+        <item>Táxi</item>
+        <item>Aplicativos</item>
+    </string-array>
+    <string-array name="tipoCompartilhado">
+        <item>Táxi</item>
+        <item>Aplicativo</item>
+    </string-array>
+    <string name="title_activity_menu_lateral">Move</string>
+    <string name="navigation_drawer_open">Abrir menu</string>
+    <string name="navigation_drawer_close">Fechar menu</string>
+    <string name="nav_header_title">Nome do usuário</string>
+    <string name="nav_header_subtitle">email_do_usuario@email.com</string>
+    <string name="nav_header_desc">Cabeçalho</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
